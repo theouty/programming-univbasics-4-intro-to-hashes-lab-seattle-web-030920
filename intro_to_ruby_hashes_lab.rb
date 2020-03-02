@@ -4,6 +4,7 @@ end
 
 def my_hash
   new = {:name => john}
+  new[name]
 end
 
 def pioneer
